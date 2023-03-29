@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>three.js tutorial</title>
+	<style>
+		body {
+			margin: 0;
+		}
+		.div {
+			opacity:1;
+			color: rgb(0, 0, 0);
+			position: absolute;
+			top:20px;
+			left: 100px;
+			width: 100%;
+			text-align: left;
+			z-index: 100;
+			display: block;
+		}
+		.p1{
+			opacity:1;
+			color: rgb(255, 255, 255);
+			position: absolute;
+			top:20px;
+			left: 20px;
+			width: 100%;
+			text-align: left;
+			z-index: 100;
+			display: block;
+		}
+		.p2{
+			opacity:1;
+			
+			color: rgb(255, 255, 255);
+			position: absolute;
+			
+			left: 200px;
+			width: 100%;
+			text-align: left;
+			z-index: 100;
+			display: block;
+		}
+	</style>
+</head>
+
+<body>
+	<!-- <script src="js/three.js"></script>
+		<script src="js/cube.js"></script> -->
+	
+	<!-- <div class="div">Description</div> -->
+	<div style="position: fixed;top:15px;left:20px;background-color: transparent;color: rgb(80, 241, 5);">
+		Fuel <p style="display: inline-block;" id ="fuel"></p>/100
+		Score <p style="display: inline-block;" id ="score"></p>
+		Health <p style="display: inline-block;" id ="health"></p>/5
+		Time <p style="display: inline-block;" id ="time"></p>
+		<!-- Lap <p style="display: inline-block;" id ="laps"></p>/5 -->
+	</div>
+	<div style ="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);background-color: transparent;text-align: center;color: cyan;font-size: xx-large;" >
+		<p style="display: inline-block;" id ="GameStart"></p>
+		Your Dist <p style="display: inline-block;" id ="cars"></p>
+		Car1 <p style="display: inline-block;" id ="car1s"></p>
+		Car2 <p style="display: inline-block;" id ="car2s"></p>
+		Car3 <p style="display: inline-block;" id ="car3s"></p>
+	</div>
+		<script src="http://localhost:8080/dist/main.js"></script>
+</body>
+
+</html>

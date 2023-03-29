@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gas Can
+* source:	https://sketchfab.com/3d-models/gas-can-c2f9e030008a4b41a644bf2ce48c5959
+* author:	hirairmak (https://sketchfab.com/hirairmak)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gas Can" (https://sketchfab.com/3d-models/gas-can-c2f9e030008a4b41a644bf2ce48c5959) by hirairmak (https://sketchfab.com/hirairmak) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
